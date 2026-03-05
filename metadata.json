@@ -1,0 +1,7 @@
+{
+  "name": "base75",
+  "description": "base75 is a voice-based AI developed by base75 Technologies Limited. Experience real-time, low-latency conversation with human-like interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
